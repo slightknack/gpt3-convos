@@ -14,3 +14,7 @@ Another response:
 > A monad is a shape.  It is a shape that is made of other shapes and it is made of shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes.
 
 That's a logical explanation, I think I get it now. 👍
+
+The responses are fairly amusing:
+
+> A monad is a special kind of thing that makes other things work.
