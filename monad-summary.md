@@ -7,14 +7,18 @@ And I got the following response:
 
 > A monad is a special kind of object. It is a sort of like a shape. You can put things inside it, but you can't take things out.
 
-I mean it's not *wrong*, but it's not right either. Needless to say, neither GPT3 or I are expert Category Theorists.
-
-Another response:
+I mean it's not *wrong*, but it's not right either. Needless to say, neither GPT3 or I are expert Category Theorists. Another response:
 
 > A monad is a shape.  It is a shape that is made of other shapes and it is made of shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes.  And it is made of shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes that are made of other shapes.
 
-That's a logical explanation, I think I get it now. 👍
-
-The responses are fairly amusing:
+That's a logical explanation, I think I get it now. 👍 The responses are fairly amusing:
 
 > A monad is a special kind of thing that makes other things work.
+
+> A monad is a thing that looks like a peanut.
+
+> A monad is a kind of thing that is like a group, but it is a group of something different.
+
+> A monad is a group of things that work like one thing.
+
+Alright, that's enough for now.
